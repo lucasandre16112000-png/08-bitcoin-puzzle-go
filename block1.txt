@@ -1,0 +1,12 @@
+age
+ancient
+bench
+chair
+donkey
+elder
+man
+mule
+old
+seat
+senior
+stool

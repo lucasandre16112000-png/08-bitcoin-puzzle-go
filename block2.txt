@@ -1,0 +1,12 @@
+cross
+earth
+galaxy
+lunar
+moon
+orbit
+planet
+solar
+space
+sun
+universe
+world
